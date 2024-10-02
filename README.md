@@ -7,7 +7,11 @@ Filter out all IP addresses and real addresses for the custom port from the UFW 
 3.使用pip工具安装geoip2,ipdb,xpinyin  
 ```bash
 pip install geoip2
+```
+```bash
 pip install ipdb
+```
+```bash
 pip install xpinyin
 ```
 
